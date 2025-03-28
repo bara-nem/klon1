@@ -1,2 +1,1 @@
-# klon1
-klonovaci test
+zkouška, zkouška, zkouška
